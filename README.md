@@ -1,6 +1,7 @@
 # :wave: The Basics of GitHub 
 
-Añado comentario
+Añado comentario.
+Creo que Jordi tiene que aceptar el cambio para que el profesor lo vea.
 
 ## 🤓 Course overview and learning outcomes 
 
